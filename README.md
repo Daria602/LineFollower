@@ -24,4 +24,5 @@ Create a line follower. PID tune it. Implement automatic calibration of the QTR-
 12. DC motors (2)
 
 
+## Video
 Video showcasing the functionality can be found [here](https://youtu.be/GUKyuXd97sc). Project pair programmed with [Bojici Valentin](https://github.com/valibojici).
